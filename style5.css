@@ -1,0 +1,21 @@
+
+body { 
+  background-image: url(1700430613485.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+#one {
+  text-emphasis-position: down;
+  text-justify: distribute;
+  text-align: center;
+  margin: bottom;
+  margin-top: 100xp;
+  margin-bottom: 100xp;
+}
